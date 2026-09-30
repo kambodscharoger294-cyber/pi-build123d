@@ -1,0 +1,19 @@
+{
+  "name": "pi-build123d",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Code-first parametrische CAD-Konstruktion mit build123d für pi (STEP/STL-Export, Validierung, Best Practices)",
+  "license": "MIT",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "cad",
+    "build123d",
+    "3d-modeling"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
